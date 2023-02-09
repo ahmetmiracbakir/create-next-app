@@ -39,12 +39,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ***
-git commands
-echo "# kra_life" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/capitalN/kra_life.git
-git push -u origin main
+- git commands
+- echo "# kra_life" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/capitalN/kra_life.git
+- git push -u origin main
 ***
